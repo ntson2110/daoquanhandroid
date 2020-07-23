@@ -1,33 +1,26 @@
 # Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/07/11/dao-quanh-ung-dung-android-trong-android-studio-3-x/">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-Một số bài khác:
-***
-<a href="https://github.com/tiendatmagic/helloworldandroid">Làm quen môi trường Android</a>
+<a href="https://github.com/ntson2110/FragmentExample">Fragments trong Android</a>
 
-<a href="https://github.com/tiendatmagic/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
+<a href="https://github.com/ntson2110/MotionEventActvity">Sự kiện và xử lý sự kiện touch và multi-touch trong Android</a>
 
-<a href="https://github.com/tiendatmagic/LayoutSample">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X </a>
+<a href="https://github.com/ntson2110/MenuExample">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a>
 
-<a href="https://github.com/tiendatmagic/MyFirstAndroidApplication">Thiết lập và nhận thông tin từ các Android views</a>
+<a href="https://github.com/ntson2110/ExplicitIntent">Đối tượng Intent trong Android Phần 1</a>
 
-<a href="https://github.com/tiendatmagic/androidbasicview">Sự kiện và xử lý sự kiện trong Android</a>
+<a href="https://github.com/ntson2110/ImplicitIntent">Đối tượng Intent trong Android Phần 2</a>
 
-<a href="https://github.com/tiendatmagic/MotionEvent">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android</a>
+<a href="https://github.com/ntson2110/SendBroadca">Đối tượng Intent trong Android Phần 3</a>
 
-<a href="https://github.com/tiendatmagic/CommonGestures">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector</a>
+<a href="https://github.com/ntson2110/CommonGestures">Phát hiện cử chỉ người dùng </a>
 
-<a href="https://github.com/tiendatmagic/FragmentExample">Fragments trong Android</a>
+<a href="https://github.com/ntson2110/androidbasicview">Sự kiện và xử lý sự kiện trong Android</a>
 
-<a href="https://github.com/tiendatmagic/Menu_example_android">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a>
+<a href="https://github.com/ntson2110/MyFirstAndroidApplication">Thiết lập và nhận thông tin từ các Android views</a>
 
-<a href="https://github.com/tiendatmagic/ExplicitIntent">Đối tượng Intent trong Android Phần 1</a>
-	
-<a href="https://github.com/tiendatmagic/ImplicitIntent">Đối tượng Intent trong Android Phần 2</a>
-	
-<a href="https://github.com/tiendatmagic/SendBroadcast">Đối tượng Intent trong Android Phần 3</a>
+<a href="https://github.com/ntson2110/congtrunhanchia">Tạo ứng dụng máy tính</a>
 
-<a href="https://github.com/tiendatmagic/SQLiteDemoApplication">Lập trình cơ sở dữ liệu Android với SQLite</a>
+<a href="https://github.com/ntson2110/LayoutSample">Thiết kế giao diện người dùng  </a>
 
-© 2020 Copyright by Tiendatmagic - All Rights Reserved | Designed by Tiendatmagic
+<a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-![image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2Ftiendatmagicc.png?v=1594881680906)
