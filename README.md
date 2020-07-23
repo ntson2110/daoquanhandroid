@@ -24,4 +24,4 @@
 
 <a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-![image](https://wikici.com/chu-ky-ten-son-cac-mau-chu-ky-ten-son-dep-nhat)
+![image](https://wikici.com/Upload/chu-ky/chu-ky-ten-son-undercut-ttf.jpeg)
