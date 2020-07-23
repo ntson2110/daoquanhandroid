@@ -24,9 +24,5 @@
 
 <a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-
-
-<src="https://imgflip.com/embed/4959b1"></iframe></div><p><a href="https://imgflip.com/gif/4959b1">via Imgflip</a></p></div>
-
-
+![image](![image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2Ftiendatmagicc.png?v=1594881680906)
 
