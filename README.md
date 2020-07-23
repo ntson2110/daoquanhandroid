@@ -24,4 +24,4 @@
 
 <a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-![image](https://wikici.com/Upload/chu-ky/chu-ky-ten-son-undercut-ttf.jpeg)
+![image]https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/115453506_145969403788814_8118402242620355291_n.jpg?_nc_cat=109&_nc_sid=110474&_nc_ohc=jmMWhz_CKugAX9Fum4h&_nc_ht=scontent.fdad2-1.fna&oh=d8e81fc1be2b5456c40c68b8b048f3a5&oe=5F3EED9C)
