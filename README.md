@@ -24,4 +24,5 @@
 
 <a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-<a href="https://imgflip.com/gif/495aeo">via Imgflip</a></p></div>
+<a href="https://imgflip.com/gif/495aeo"><img src="https://imgflip.com/gif/495aeo.gif" title="made at imgflip.com"/></a>
+h
