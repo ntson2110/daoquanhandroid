@@ -24,4 +24,4 @@
 
 <a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 
-![image](https://drive.google.com/drive/folders/1Hxfz8DbZHgPwm_LM03aVJjqj0wlkWuf6?fbclid=IwAR1n2NbgUqYYbkqH61ilSqefy4GlV7TmZlPrZ3FfSDtDPBL5b_9kh-DNzXk)
+![image](https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/109697531_145974280454993_8722260899267909323_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=zVpQY-uhXKsAX-w0Ru_&_nc_ht=scontent.fdad1-1.fna&oh=3f88999195d5791ace42b163ea693ce3&oe=5F408745)
